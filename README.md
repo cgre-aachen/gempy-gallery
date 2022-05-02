@@ -9,7 +9,7 @@ Models which are included in this repository are marked with a :white_check_mark
 
 ### 🌍 Real-world models  
 
-1. New Jersey shelf model - Combination of geological modeling with geostatistical modeling of petrophysical parameters -  [Ariel Thomas](https://www.gge.eonerc.rwth-aachen.de/cms/E-ON-ERC-GGE/Das-Institut/Mitarbeiter/Wissenschaftliches-Personal/~bnvor/Ariel-Thomas/lidx/1/) & [Jan von Harten  ](https://www.cgre.rwth-aachen.de/go/id/qpan/lidx/1/gguid/0x4BBF8192AC2AFC44961CFEAC91871AE9)  
+1. New Jersey shelf model - [Combination of geological modeling with geostatistical modeling of petrophysical parameters](https://assets.researchsquare.com/files/rs-765702/v1_covered.pdf?c=1649753473) -  [Ariel Thomas](https://www.gge.eonerc.rwth-aachen.de/cms/E-ON-ERC-GGE/Das-Institut/Mitarbeiter/Wissenschaftliches-Personal/~bnvor/Ariel-Thomas/lidx/1/) & [Jan von Harten  ](https://www.cgre.rwth-aachen.de/go/id/qpan/lidx/1/gguid/0x4BBF8192AC2AFC44961CFEAC91871AE9)  
 2. Gottesacker model - [Hydrogeological modeling of a karst aquifer](https://link.springer.com/article/10.1007/s10040-020-02227-6) - [Chloé Fandel](https://www.carleton.edu/directory/cfandel/)  
 3. Aargau model - [assessment of heat flow and geothermal potential in a graben setting in northern Switzerland](https://geg-ethz.github.io/PSGeothermieAargau/) - [Jan Niederau](https://www.researchgate.net/profile/Jan-Niederau)  
 4. Gulfaks fields - [assessment of uncertainty in 3D models and its reduction with topology information](https://se.copernicus.org/articles/10/1049/2019/) - [Alexander Schaaf](https://www.linkedin.com/in/aschaaf/)  
@@ -17,6 +17,10 @@ Models which are included in this repository are marked with a :white_check_mark
 6. Münster - regional geothermal study - [Alexander Jüstel](https://www.linkedin.com/in/alexanderjuestel/?originalSubdomain=de)  
 7. Einstein Telescope - comprehensive geological modeling at the potential ET site - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/)  
 8. Kevitsa Deposit - [Model-based inversion with magnetic data](https://www.mdpi.com/2076-3263/11/4/150) - Nilgün Güdük  
+9. :white_check_mark: Alès area - [modeling 12 years of geological mapping](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-17448.pdf) - [Elisa Heim](https://www.gge.eonerc.rwth-aachen.de/cms/E-ON-ERC-GGE/Das-Institut/Mitarbeiter/Wissenschaftliches-Personal/~gpzwt/Heim-Elisa/lidx/1/)  
+10. :white_check_mark: Greenstone model - [Uncertainty estimation for a geological model using gravity observations](https://pubs.geoscienceworld.org/gsl/books/book/2123/chapter/115904625/Uncertainty-estimation-for-a-geological-model-of) - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/), [Miguel de la Varga](https://www.linkedin.com/in/mdelavarga/)  
+11. :white_check_mark: Claudius model -  
+12. :white_check_mark: Perth Basin Model - Geological model of a rift basin with thick sedimentary units - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/)
 
 
 ### 💡 Scientific, algorithmic developments  
