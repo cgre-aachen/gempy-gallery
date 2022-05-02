@@ -19,8 +19,9 @@ Models which are included in this repository are marked with a :white_check_mark
 8. Kevitsa Deposit - [Model-based inversion with magnetic data](https://www.mdpi.com/2076-3263/11/4/150) - Nilgün Güdük  
 9. :white_check_mark: Alès area - [modeling 12 years of geological mapping](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-17448.pdf) - [Elisa Heim](https://www.gge.eonerc.rwth-aachen.de/cms/E-ON-ERC-GGE/Das-Institut/Mitarbeiter/Wissenschaftliches-Personal/~gpzwt/Heim-Elisa/lidx/1/)  
 10. :white_check_mark: Greenstone model - [Uncertainty estimation for a geological model using gravity observations](https://pubs.geoscienceworld.org/gsl/books/book/2123/chapter/115904625/Uncertainty-estimation-for-a-geological-model-of) - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/), [Miguel de la Varga](https://www.linkedin.com/in/mdelavarga/)  
-11. :white_check_mark: Claudius model -  
-12. :white_check_mark: Perth Basin Model - Geological model of a rift basin with thick sedimentary units - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/)
+11. :white_check_mark: Claudius model -  Benchmark model, Loop3D - Guillaume Caumon
+12. :white_check_mark: Perth Basin Model - Geological model of a rift basin with thick sedimentary units - [Florian Wellmann](https://www.cgre.rwth-aachen.de/cms/CGRE/Das-Lehr-und-Forschungsgebiet/~dnyyj/Prof-Wellmann/lidx/1/)  
+12. :white_check_mark: Moureze model - Benchmark model, Loop3D - Guillaume Caumon
 
 
 ### 💡 Scientific, algorithmic developments  
